@@ -1,0 +1,11 @@
+package BlueBox;
+
+/**********************************************************************
+Console.java gives an enumerated representation of a game console. 
+The possible console values are Xbox360, Xbox720, PS3, PS2, & GameCube.
+@author Tucker Dye and Ron Rounsifer
+@version 12/2/2016
+***********************************************************************/
+public enum Console {
+	Xbox360, XboxOne, PS3, PS4, PC
+}
